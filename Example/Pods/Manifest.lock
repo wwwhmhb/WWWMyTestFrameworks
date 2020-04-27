@@ -1,0 +1,16 @@
+PODS:
+  - WWWMyTestFrameworks (0.1.0)
+
+DEPENDENCIES:
+  - WWWMyTestFrameworks (from `../`)
+
+EXTERNAL SOURCES:
+  WWWMyTestFrameworks:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  WWWMyTestFrameworks: 044a4c5ca981fd47937dc93b1aa92c2103a18b78
+
+PODFILE CHECKSUM: c6821a3d190d2945eed6ffe1fa4adccaed471cc0
+
+COCOAPODS: 1.8.3
