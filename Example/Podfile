@@ -1,0 +1,6 @@
+use_frameworks!
+target 'WWWMyTestFrameworks_Tests' do
+  pod 'WWWMyTestFrameworks', :path => '../'
+  
+  
+end
